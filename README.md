@@ -6,7 +6,9 @@
 
 ## Description
 
-This project is part of the 42 curriculum and aims to [describe the purpose of the project, e.g., "develop an application for managing network infrastructure"]. The goal is to [state the primary objective, e.g., "gain hands-on experience with network management and system administration"]. The project involves understanding network concepts such as TCP/IP addressing, subnet masks, default gateways, routers, switches, and OSI layers.
+NetPractice is a networking exercise to learn the basics of TCP/IP. The project has 10 levels where you configure small networks to make them work correctly.
+
+**Goal**: Learn how to set up IP addresses, subnet masks, and routing tables so devices can communicate through routers.
 
 ---
 
@@ -32,8 +34,25 @@ Open the index.html file in your browser.
 
 ### Networking Concepts
 
-This project teaches:
+In this project, I focused on learning and applying the following networking concepts:
 
+TCP/IP Addressing: Understanding how IP addresses are assigned and structured in network communication.
+
+Subnet Masks: Learning how subnetting works to divide a network into smaller, manageable sub-networks.
+
+Default Gateway: Understanding the role of the default gateway in routing traffic between different networks.
+
+Routers and Switches: Learning how routers direct traffic between networks and how switches manage data flow within a network.
+
+OSI Layers: Understanding the seven layers of the OSI model and how they help in the communication process between devices on a network.
+
+### AI USAGE
+
+AI played a key role in helping me understand and apply these networking concepts:
+
+Learning Subnetting: AI tools helped me practice and master subnetting, including calculating subnet masks and understanding IP address ranges.
+
+Concept Reinforcement: Throughout the project, AI was used as a resource for reinforcing network concepts, providing explanations, and offering interactive learning experiences.
 
 ## Author
 
