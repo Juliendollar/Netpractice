@@ -18,17 +18,27 @@ NetPractice is a networking exercise to learn the basics of TCP/IP. The project 
 
 To install this project, ensure you have [the necessary tools, e.g., make, gcc, etc.]. Then follow these steps:
 
-Clone the repository.
+Clone the repository:
 
-Navigate to the project directory.
+git clone https://github.com/jd-halle/NetPractice.git
 
-Compile the source files (if necessary).
+Navigate to the project directory:
+
+cd NetPractice
+
+Compile the source files (if necessary):
+
+make
 
 ### Execution
 
 To run the training interface (e.g., an HTML page):
 
-Open the index.html file in your browser.
+1. Open the index.html file in your browser.
+
+2. You can interact with the network configuration and try to solve different networking problems at each level.
+
+---
 
 ## Resources
 
@@ -53,6 +63,8 @@ AI played a key role in helping me understand and apply these networking concept
 Learning Subnetting: AI tools helped me practice and master subnetting, including calculating subnet masks and understanding IP address ranges.
 
 Concept Reinforcement: Throughout the project, AI was used as a resource for reinforcing network concepts, providing explanations, and offering interactive learning experiences.
+
+---
 
 ## Author
 
