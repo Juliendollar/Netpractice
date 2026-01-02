@@ -19,9 +19,9 @@ NetPractice is a networking exercise to learn the basics of TCP/IP. The project 
 To install this project, ensure you have [the necessary tools, e.g., make, gcc, etc.]. Then follow these steps:
 
 Clone the repository:
-
+```
 git clone https://github.com/jd-halle/NetPractice.git
-
+```
 Navigate to the project directory:
 
 cd NetPractice
@@ -46,15 +46,15 @@ To run the training interface (e.g., an HTML page):
 
 In this project, I focused on learning and applying the following networking concepts:
 
-TCP/IP Addressing: Understanding how IP addresses are assigned and structured in network communication.
+**TCP/IP Addressing**: Understanding how IP addresses are assigned and structured in network communication.
 
-Subnet Masks: Learning how subnetting works to divide a network into smaller, manageable sub-networks.
+**Subnet Masks**: Learning how subnetting works to divide a network into smaller, manageable sub-networks.
 
-Default Gateway: Understanding the role of the default gateway in routing traffic between different networks.
+**Default Gateway**: Understanding the role of the default gateway in routing traffic between different networks.
 
-Routers and Switches: Learning how routers direct traffic between networks and how switches manage data flow within a network.
+**Routers and Switches**: Learning how routers direct traffic between networks and how switches manage data flow within a network.
 
-OSI Layers: Understanding the seven layers of the OSI model and how they help in the communication process between devices on a network.
+**OSI Layers**: Understanding the seven layers of the OSI model and how they help in the communication process between devices on a network.
 
 ### AI USAGE
 
